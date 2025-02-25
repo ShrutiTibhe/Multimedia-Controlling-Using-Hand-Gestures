@@ -49,7 +49,7 @@ def draw_gesture_text(image, cnt):
 
     cv2.putText(image, gesture_text, (50, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
                                
-
+##shruti@1211297
  
  
 
